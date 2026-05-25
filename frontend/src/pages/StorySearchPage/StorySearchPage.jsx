@@ -16,7 +16,7 @@ function StorySearchPage() {
     useEffect(() => {
         fetch(`${API_BASE_URL}/api/stories`, {
             headers: {
-                "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY // MODIFIED
+                "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() // MODIFIED
             }
         })
             .then((res) => res.json())

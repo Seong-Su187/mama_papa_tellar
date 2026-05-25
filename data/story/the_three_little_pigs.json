@@ -1,0 +1,77 @@
+{
+    "story_title": "아기 돼지 삼형제",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날 깊은 숲속에 포동포동 귀여운 아기 돼지 삼형제가 살고 있었단다. 어느 날 엄마 돼지는 훌쩍 자란 형제들에게 각자 튼튼한 집을 짓고 독립하라고 말했어요.",
+        "emotion": "calm",
+        "image": "/story_image/the_three_little_pigs/pig1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "dialogue",
+        "speaker": "pig1",
+        "text": "나는 볏짚으로 후딱 초가집을 지어야지! 집을 빨리 다 지어놓고 하루 종일 낮잠이나 자야겠다. 꿀꿀!",
+        "emotion": "happy",
+        "image": "/story_image/the_three_little_pigs/pig2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "pig2",
+        "text": "나는 산에서 나무를 주워 와서 뚝딱뚝딱 오두막을 지어야지! 형보다는 튼튼할걸? 나도 빨리 놀아야지.",
+        "emotion": "happy",
+        "image": "/story_image/the_three_little_pigs/pig3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "dialogue",
+        "speaker": "pig3",
+        "text": "형들, 집은 무엇보다 튼튼하고 안전해야 해! 나는 무겁고 힘들더라도 단단한 벽돌을 하나하나 쌓아서 집을 지을 거야.",
+        "emotion": "determined",
+        "image": "/story_image/the_three_little_pigs/pig4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "며칠 뒤, 산속에서 배가 고픈 굶주린 늑대가 내려와 첫째 돼지의 볏짚 집 앞에서 숨을 크게 들이마셨어요.",
+        "emotion": "scary",
+        "image": "/story_image/the_three_little_pigs/pig5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "wolf",
+        "text": "어흥! 문 열어! 안 열어주면 내 강력한 입김으로 이 집을 다 날려버리겠다! 후우우욱!",
+        "emotion": "angry",
+        "image": "/story_image/the_three_little_pigs/pig6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "짚으로 지은 첫째의 집과 나무로 지은 둘째의 집은 늑대의 입김에 휙 날아가 버렸고, 놀란 돼지들은 셋째의 벽돌집으로 도망쳤어요.",
+        "emotion": "tense",
+        "image": "/story_image/the_three_little_pigs/pig7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "pig3",
+        "text": "늑대야, 아무리 불어봐라! 내 벽돌집이 무너지나! 굴뚝으로 몰래 내려오면 뜨거운 맛을 보여주지!",
+        "emotion": "confident",
+        "image": "/story_image/the_three_little_pigs/pig8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "굴뚝으로 들어오다 펄펄 끓는 물에 엉덩이를 덴 늑대는 멀리 도망쳤고, 삼형제는 튼튼한 벽돌집에서 오순도순 잘 살았답니다.",
+        "emotion": "happy",
+        "image": "/story_image/the_three_little_pigs/pig9.jpeg"
+      }
+    ]
+  }

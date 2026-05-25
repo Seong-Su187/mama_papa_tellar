@@ -1,0 +1,77 @@
+{
+    "story_title": "빨간 모자",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날, 작은 숲속 마을에 빨간 털실로 짠 모자를 매일 쓰고 다니는 귀여운 소녀가 살고 있었단다. 사람들은 그 아이를 '빨간 모자'라고 불렀어요.",
+        "emotion": "calm",
+        "image": "/story_image/little_red_riding_hood/red1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "dialogue",
+        "speaker": "mother",
+        "text": "빨간 모자야, 편찮으신 할머니께 이 포도주와 빵을 가져다드리렴. 숲길에서는 한눈팔지 말고 곧장 가야 한다.",
+        "emotion": "worried",
+        "image": "/story_image/little_red_riding_hood/red2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "red_riding_hood",
+        "text": "네, 엄마! 조심해서 잘 다녀올게요. 빵 냄새를 맡으시면 할머니가 무척 좋아하시겠죠?",
+        "emotion": "happy",
+        "image": "/story_image/little_red_riding_hood/red3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "숲길을 사뿐사뿐 걷던 소녀의 앞을 커다랗고 시커먼 늑대가 가로막았어요. 늑대는 군침을 삼키며 다정하게 말을 건넸어요.",
+        "emotion": "tense",
+        "image": "/story_image/little_red_riding_hood/red4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "dialogue",
+        "speaker": "wolf",
+        "text": "안녕, 꼬마 아가씨? 저기 예쁜 들꽃들을 좀 봐. 할머니께 꺾어다 드리면 얼마나 기뻐하시겠니?",
+        "emotion": "sneaky",
+        "image": "/story_image/little_red_riding_hood/red5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "소녀가 꽃을 꺾는 사이 할머니 댁에 먼저 도착한 늑대는 할머니를 꿀꺽 삼키고 침대에 누워 소녀를 기다렸어요.",
+        "emotion": "scary",
+        "image": "/story_image/little_red_riding_hood/red6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "dialogue",
+        "speaker": "red_riding_hood",
+        "text": "할머니, 왜 이렇게 귀와 입이 크세요? 으아악! 할머니가 아니라 무서운 늑대였잖아!",
+        "emotion": "surprised",
+        "image": "/story_image/little_red_riding_hood/red7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "hunter",
+        "text": "요놈의 늑대, 여기서 자고 있었구나! 내 가위로 당장 네 뱃속을 갈라서 사람들을 구해주마!",
+        "emotion": "angry",
+        "image": "/story_image/little_red_riding_hood/red8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "지나가던 사냥꾼 아저씨의 도움으로 뱃속에서 무사히 빠져나온 빨간 모자와 할머니는 다 함께 맛있는 빵을 나누어 먹었답니다.",
+        "emotion": "happy",
+        "image": "/story_image/little_red_riding_hood/red9.jpeg"
+      }
+    ]
+  }

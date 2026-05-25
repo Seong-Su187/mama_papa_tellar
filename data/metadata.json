@@ -1,6 +1,6 @@
 {
-  "total_count": 10,
-  "last_updated": "2026-05-05",
+  "total_count": 20,
+  "last_updated": "2026-05-26",
   "story": [
     {
       "story_id": "ST_001",
@@ -130,6 +130,140 @@
         {"name": "며느리", "speaker": "daughter_in_law"},
         {"name": "시어머니", "speaker": "mother_in_law"},
         {"name": "아버지", "speaker": "father_in_law"}
+      ]
+    },
+    {
+      "story_id": "ST_011",
+      "title": "헨젤과 그레텔",
+      "file_name": "hansel_and_gretel.json",
+      "image_path": "/illusts/11.jpeg",
+      "theme": "Adventure",
+      "duration": "5m",
+      "characters": [
+        {"name": "새어머니", "speaker": "stepmother"},
+        {"name": "헨젤", "speaker": "hansel"},
+        {"name": "그레텔", "speaker": "gretel"},
+        {"name": "마녀", "speaker": "witch"}
+      ]
+    },
+    {
+      "story_id": "ST_012",
+      "title": "빨간 모자",
+      "file_name": "little_red_riding_hood.json",
+      "image_path": "/illusts/12.jpeg",
+      "theme": "Caution",
+      "duration": "4m",
+      "characters": [
+        {"name": "엄마", "speaker": "mother"},
+        {"name": "빨간 모자", "speaker": "red_riding_hood"},
+        {"name": "늑대", "speaker": "wolf"},
+        {"name": "사냥꾼", "speaker": "hunter"}
+      ]
+    },
+    {
+      "story_id": "ST_013",
+      "title": "아기 돼지 삼형제",
+      "file_name": "the_three_little_pigs.json",
+      "image_path": "/illusts/13.jpeg",
+      "theme": "Wisdom",
+      "duration": "5m",
+      "characters": [
+        {"name": "첫째 돼지", "speaker": "pig1"},
+        {"name": "둘째 돼지", "speaker": "pig2"},
+        {"name": "셋째 돼지", "speaker": "pig3"},
+        {"name": "늑대", "speaker": "wolf"}
+      ]
+    },
+    {
+      "story_id": "ST_014",
+      "title": "잠자는 숲속의 공주",
+      "file_name": "sleeping_beauty.json",
+      "image_path": "/illusts/14.jpeg",
+      "theme": "Magic",
+      "duration": "6m",
+      "characters": [
+        {"name": "나쁜 요정", "speaker": "evil_fairy"},
+        {"name": "착한 요정", "speaker": "good_fairy"},
+        {"name": "공주", "speaker": "princess"},
+        {"name": "왕자", "speaker": "prince"}
+      ]
+    },
+    {
+      "story_id": "ST_015",
+      "title": "개구리 왕자",
+      "file_name": "the_frog_prince.json",
+      "image_path": "/illusts/15.jpeg",
+      "theme": "Promise",
+      "duration": "4m",
+      "characters": [
+        {"name": "공주", "speaker": "princess"},
+        {"name": "개구리", "speaker": "frog"},
+        {"name": "왕", "speaker": "king"}
+      ]
+    },
+    {
+      "story_id": "ST_016",
+      "title": "성냥팔이 소녀",
+      "file_name": "the_little_match_girl.json",
+      "image_path": "/illusts/16.jpeg",
+      "theme": "Sadness",
+      "duration": "4m",
+      "characters": [
+        {"name": "소녀", "speaker": "girl"},
+        {"name": "행인", "speaker": "passerby"}
+      ]
+    },
+    {
+      "story_id": "ST_017",
+      "title": "잭과 콩나무",
+      "file_name": "jack_and_the_beanstalk.json",
+      "image_path": "/illusts/17.jpeg",
+      "theme": "Adventure",
+      "duration": "6m",
+      "characters": [
+        {"name": "노인", "speaker": "old_man"},
+        {"name": "엄마", "speaker": "mother"},
+        {"name": "잭", "speaker": "jack"},
+        {"name": "거인", "speaker": "giant"}
+      ]
+    },
+    {
+      "story_id": "ST_018",
+      "title": "알라딘과 요술 램프",
+      "file_name": "aladdin_and_the_magic_lamp.json",
+      "image_path": "/illusts/18.jpeg",
+      "theme": "Magic",
+      "duration": "7m",
+      "characters": [
+        {"name": "마법사", "speaker": "magician"},
+        {"name": "지니", "speaker": "genie"},
+        {"name": "알라딘", "speaker": "aladdin"}
+      ]
+    },
+    {
+      "story_id": "ST_019",
+      "title": "알리바바와 40인의 도둑",
+      "file_name": "ali_baba_and_the_forty_thieves.json",
+      "image_path": "/illusts/19.jpeg",
+      "theme": "Wisdom",
+      "duration": "6m",
+      "characters": [
+        {"name": "도둑", "speaker": "thief"},
+        {"name": "알리바바", "speaker": "alibaba"},
+        {"name": "모르지아나", "speaker": "morgiana"}
+      ]
+    },
+    {
+      "story_id": "ST_020",
+      "title": "개미와 베짱이",
+      "file_name": "the_ant_and_the_grasshopper.json",
+      "image_path": "/illusts/20.jpeg",
+      "theme": "Diligence",
+      "duration": "4m",
+      "characters": [
+        {"name": "베짱이", "speaker": "grasshopper"},
+        {"name": "개미", "speaker": "ant"},
+        {"name": "여왕개미", "speaker": "queen_ant"}
       ]
     }
   ]

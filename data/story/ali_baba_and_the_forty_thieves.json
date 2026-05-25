@@ -1,0 +1,77 @@
+{
+    "story_title": "알리바바와 40인의 도둑",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날, 가난하지만 성실한 나무꾼 알리바바가 살고 있었단다. 하루는 숲에서 땀을 뻘뻘 흘리며 나무를 베고 있었지.",
+        "emotion": "calm",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "그때, 멀리서 흙먼지를 일으키며 말을 탄 무서운 도둑 떼가 바위산으로 쏜살같이 달려오는 것을 보고 알리바바는 나무 위로 숨었어요.",
+        "emotion": "tense",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "thief",
+        "text": "열려라, 참깨! 닫혀라, 참깨! 형제들아, 오늘 우리가 마을에서 약탈해 온 금은보화를 모두 이곳 비밀 동굴에 숨겨두자꾸나.",
+        "emotion": "confident",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "도둑들이 떠난 후, 알리바바가 외워둔 주문을 말하여 동굴 문을 열자 그 안에는 평생 먹고살고도 남을 엄청난 보물이 가득했어요.",
+        "emotion": "surprised",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "dialogue",
+        "speaker": "alibaba",
+        "text": "이 많은 보물들을 가난한 이웃들과 나누어 써야겠어. 욕심부리지 말고 내 당나귀가 실을 수 있을 만큼만 자루에 담아서 가져가자.",
+        "emotion": "happy",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "알리바바가 부자가 되자, 낌새를 눈치챈 도둑의 두목이 기름 상인으로 둔갑하고 40개의 거대한 기름통에 부하들을 숨겨 찾아왔어요.",
+        "emotion": "scary",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "dialogue",
+        "speaker": "thief",
+        "text": "속닥속닥, 두목님. 밤이 깊어 알리바바 녀석이 잠들면 우리에게 신호를 보내주십시오. 당장 튀어나가 혼쭐을 내주겠습니다.",
+        "emotion": "sneaky",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "morgiana",
+        "text": "감히 우리 주인님을 해치려 하다니! 눈치 빠른 내가 펄펄 끓는 기름을 가져다 저 통 안에 부어서 도둑들을 싹 다 혼내주마!",
+        "emotion": "determined",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "지혜롭고 용감한 하녀 모르지아나 덕분에 알리바바는 무서운 도둑들을 소탕하고 남은 평생을 이웃에게 베풀며 평안하게 살았답니다.",
+        "emotion": "happy",
+        "image": "/story_image/ali_baba_and_the_forty_thieves/ali9.jpeg"
+      }
+    ]
+  }

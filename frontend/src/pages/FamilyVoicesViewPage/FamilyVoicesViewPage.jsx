@@ -67,7 +67,7 @@ function FamilyVoicesViewPage() {
             const response = await fetch(`${API_BASE_URL}/api/voice/scriptLines`, {
                 method: "GET",
                 headers: {
-                    "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY
+                    "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY()
                 }
             });
 
@@ -126,7 +126,7 @@ function FamilyVoicesViewPage() {
             const response = await fetch(`${API_BASE_URL}/api/voice/register`, {
                 method: "POST",
                 headers: {
-                    "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY
+                    "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY()
                 },
                 body: formData,
             });

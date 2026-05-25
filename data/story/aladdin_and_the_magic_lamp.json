@@ -1,0 +1,77 @@
+{
+    "story_title": "알라딘과 요술 램프",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날 아주 먼 아라비아 마을에 알라딘이라는 장난꾸러기 소년이 가난하지만 밝게 살고 있었단다.",
+        "emotion": "calm",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "어느 날, 자신을 오래전 떠난 삼촌이라고 속인 나쁜 마법사가 찾아와 알라딘을 사막 한가운데 있는 비밀 동굴로 데려갔어요.",
+        "emotion": "tense",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "magician",
+        "text": "알라딘, 저 안쪽에서 낡은 등잔 램프 하나만 꺼내서 가져오너라. 나머지 금은보화는 다 네가 가져도 좋다!",
+        "emotion": "sneaky",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "램프를 주웠지만 문이 닫혀 캄캄한 동굴에 갇히게 된 알라딘은 무심코 옷자락에 낡은 램프의 겉면을 쓱쓱 문질렀어요.",
+        "emotion": "tense",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "dialogue",
+        "speaker": "genie",
+        "text": "펑! 램프의 요정 지니 대령이요! 램프를 문지르신 새로운 주인님, 지금부터 세 가지 소원을 말씀해 주시지요!",
+        "emotion": "surprised",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "aladdin",
+        "text": "이럴 수가, 동화 속에 나오는 진짜 요정이잖아! 지니, 첫 번째 소원이야. 나를 당장 이 어둡고 무서운 동굴에서 꺼내줘!",
+        "emotion": "excited",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "지니의 도움으로 무사히 동굴에서 빠져나와 남은 소원을 빌어 벼락부자가 된 알라딘은 거대한 성을 짓고 왕의 딸인 세상에서 가장 아름다운 자스민 공주와 결혼했어요.",
+        "emotion": "happy",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "magician",
+        "text": "크하하! 어리석은 공주를 속여 새 램프와 바꿨다! 드디어 내가 램프의 주인이 되었다. 지니, 이 성을 당장 사막 끝으로 옮겨라!",
+        "emotion": "angry",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "모든 것을 잃을 뻔했지만, 지혜로운 알라딘은 공주와 힘을 합쳐 수면제로 마법사를 잠재우고 램프를 되찾아 평화로운 나라를 다스렸답니다.",
+        "emotion": "happy",
+        "image": "/story_image/aladdin_and_the_magic_lamp/ala9.jpeg"
+      }
+    ]
+  }

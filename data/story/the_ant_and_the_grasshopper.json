@@ -1,0 +1,77 @@
+{
+    "story_title": "개미와 베짱이",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날, 햇살이 쨍쨍 내리쬐는 무더운 여름날이었단다. 숲속의 곤충들은 제각기 더위를 피하느라 바빴지.",
+        "emotion": "calm",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "하지만 부지런한 개미들은 땀을 비 오듯 뻘뻘 흘리며 겨울에 먹을 곡식들을 줄지어 집으로 나르고 있었어요.",
+        "emotion": "calm",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "grasshopper",
+        "text": "어이, 개미 친구들! 날씨도 더운데 왜 그렇게 멍청하게 땀을 흘리며 일만 해? 이리 와서 시원한 그늘 아래 내 바이올린 연주나 들어보라고!",
+        "emotion": "happy",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "dialogue",
+        "speaker": "ant",
+        "text": "우린 곧 다가올 춥고 긴 눈보라 치는 겨울을 대비해서 식량을 모아야 해. 너도 지금 춤추며 놀 때가 아니라 미리 겨울 준비를 해야 할 텐데.",
+        "emotion": "determined",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "베짱이는 개미들의 걱정을 콧방귀를 뀌며 가볍게 무시했어요. 하지만 눈 깜짝할 새 찬 바람이 쌩쌩 부는 한겨울이 찾아왔어요.",
+        "emotion": "tense",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "grasshopper",
+        "text": "오들오들... 온 세상이 눈으로 하얗게 덮여서 풀잎 하나 구할 수가 없네. 배가 너무 고파서 더 이상 노래도 부를 수 없어.",
+        "emotion": "sad",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "배를 움켜쥔 굶주린 베짱이는 창문 너머로 훈훈한 열기와 맛있는 수프 냄새가 솔솔 새어 나오는 개미네 집 문을 힘없이 두드렸어요.",
+        "emotion": "painful",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "queen_ant",
+        "text": "누구세요? 어머나, 밖에서 꽁꽁 얼어 죽어가는 베짱이 아니니! 어서 따뜻한 난로 앞으로 들어오렴. 우리가 모아둔 빵을 나누어 줄게.",
+        "emotion": "surprised",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "착한 개미들의 따뜻한 마음씨에 크게 감동한 베짱이는 뉘우침의 눈물을 흘렸고, 다음 해 여름부터는 개미들을 도와 땀 흘려 열심히 일했답니다.",
+        "emotion": "happy",
+        "image": "/story_image/the_ant_and_the_grasshopper/ant9.jpeg"
+      }
+    ]
+  }

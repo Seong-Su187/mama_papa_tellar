@@ -243,6 +243,7 @@ async def stream_story_audio_jms(
                         "id":           scene.get("id"),
                         "storyImage":   story_info.get("image_path"),
                         "image":        get_scene_image_path(story_info, scene),
+                        "apiUrl":       scene.get("apiUrl"),
                     }
 
                     current_time_ms += len(scene_audio_with_pause)

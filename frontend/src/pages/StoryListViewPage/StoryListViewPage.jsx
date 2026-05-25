@@ -44,14 +44,14 @@ function StoryListViewPage() {
 
     useEffect(() => {
         fetch(`${API_BASE_URL}/api/stories`, {
-            headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+            headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
         })
             .then((res) => res.json())
             .then((data) => setStories(data.story))
             .catch((err) => console.error("데이터 로딩 실패:", err));
 
         fetch(`${API_BASE_URL}/api/voice/scriptLines`, {
-            headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+            headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
         })
             .then((res) => res.json())
             .then((data) => {
@@ -87,7 +87,7 @@ function StoryListViewPage() {
             const response = await fetch(`${API_BASE_URL}/api/voice/register`, {
                 method: "POST",
                 headers: {
-                    "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY
+                    "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY()
                 },
                 body: formData,
             });

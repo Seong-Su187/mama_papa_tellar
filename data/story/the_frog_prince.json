@@ -1,0 +1,77 @@
+{
+    "story_title": "개구리 왕자",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날, 숲속 깊은 곳에 있는 아름다운 성에 무척 예쁜 공주님이 살고 있었단다. 공주님은 반짝이는 걸 참 좋아했지.",
+        "emotion": "calm",
+        "image": "/story_image/the_frog_prince/frog1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "어느 맑은 날, 공주님은 자신이 가장 아끼는 황금 공을 가지고 연못가로 놀러 나갔다가 그만 실수로 물에 빠뜨리고 말았어요.",
+        "emotion": "sad",
+        "image": "/story_image/the_frog_prince/frog2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "princess",
+        "text": "앗, 나의 소중한 황금 공이 깊은 연못 속으로 빠져버렸어! 엉엉, 저걸 어떻게 꺼내면 좋아.",
+        "emotion": "sad",
+        "image": "/story_image/the_frog_prince/frog3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "dialogue",
+        "speaker": "frog",
+        "text": "개굴개굴! 공주님, 제가 공을 찾아드릴 테니 저를 성으로 데려가 밥도 같이 먹고 침대에서 같이 재워주세요.",
+        "emotion": "hopeful",
+        "image": "/story_image/the_frog_prince/frog4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "공주는 징그러운 개구리의 부탁을 건성으로 알겠다고 약속한 뒤, 공만 챙겨서 냉큼 성으로 도망쳐 버렸어요.",
+        "emotion": "tense",
+        "image": "/story_image/the_frog_prince/frog5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "frog",
+        "text": "공주님! 문 열어주세요! 약속을 지키셔야죠! 찰박찰박 무거운 성문을 두드리는 소리가 났어요.",
+        "emotion": "angry",
+        "image": "/story_image/the_frog_prince/frog6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "dialogue",
+        "speaker": "king",
+        "text": "공주야, 어려울 때 널 도와준 친구와의 약속을 어겨서는 안 된다. 어서 개구리를 따뜻한 식탁으로 부르거라.",
+        "emotion": "determined",
+        "image": "/story_image/the_frog_prince/frog7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "princess",
+        "text": "으, 정말 축축하고 징그러워! 화가 난 공주가 개구리를 벽으로 휙 던지는 순간, 펑 하고 번쩍하는 빛이 났어요.",
+        "emotion": "surprised",
+        "image": "/story_image/the_frog_prince/frog8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "마법이 풀리면서 징그러운 개구리는 아주 늠름하고 멋진 왕자님으로 변했고, 두 사람은 오해를 풀고 행복하게 결혼했답니다.",
+        "emotion": "happy",
+        "image": "/story_image/the_frog_prince/frog9.jpeg"
+      }
+    ]
+  }

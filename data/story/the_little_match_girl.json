@@ -1,0 +1,77 @@
+{
+    "story_title": "성냥팔이 소녀",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날 아주아주 추운 겨울날이었단다. 쌩쌩 찬바람이 부는 거리에는 사람들의 발길이 뜸했지.",
+        "emotion": "calm",
+        "image": "/story_image/the_little_match_girl/girl1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "한 해의 마지막 날 밤, 눈이 펑펑 내리는 거리에 다 해진 낡은 옷을 입은 맨발의 소녀가 덜덜 떨며 서 있었어요.",
+        "emotion": "sad",
+        "image": "/story_image/the_little_match_girl/girl2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "girl",
+        "text": "성냥 사세요... 제발 성냥 하나만 사주세요... 너무 춥고 배가 고파서 쓰러질 것 같아요.",
+        "emotion": "painful",
+        "image": "/story_image/the_little_match_girl/girl3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "dialogue",
+        "speaker": "passerby",
+        "text": "비켜라, 꼬마야! 가족들이 기다리는 따뜻한 집으로 빨리 가야 해. 네 성냥을 살 시간 따윈 없어!",
+        "emotion": "annoyed",
+        "image": "/story_image/the_little_match_girl/girl4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "성냥을 하나도 팔지 못한 소녀는 무서운 아버지에게 맞을까 봐 집에 가지 못하고, 바람을 피해 좁은 골목에 웅크렸어요.",
+        "emotion": "scary",
+        "image": "/story_image/the_little_match_girl/girl5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "girl",
+        "text": "손가락이 꽁꽁 얼었어... 성냥 하나만 그어서 굳은 손을 녹이자. 칙- 와, 타오르는 불빛이 난로처럼 너무 따뜻해.",
+        "emotion": "calm",
+        "image": "/story_image/the_little_match_girl/girl6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "성냥을 켤 때마다 불꽃 속에서 따뜻한 난로, 김이 모락모락 나는 칠면조 구이, 그리고 반짝이는 아름다운 트리가 나타났다 사라졌어요.",
+        "emotion": "surprised",
+        "image": "/story_image/the_little_match_girl/girl7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "girl",
+        "text": "할머니! 불이 꺼지면 할머니도 사라지잖아요. 남은 성냥을 다 켜서 나를 사랑해 주던 할머니를 꼭 붙잡을 거예요!",
+        "emotion": "hopeful",
+        "image": "/story_image/the_little_match_girl/girl8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "다음 날 아침, 사람들은 미소를 머금은 채 차갑게 쓰러진 소녀를 발견했지만, 소녀는 할머니 품에 안겨 하늘에서 가장 행복했답니다.",
+        "emotion": "sad",
+        "image": "/story_image/the_little_match_girl/girl9.jpeg"
+      }
+    ]
+  }

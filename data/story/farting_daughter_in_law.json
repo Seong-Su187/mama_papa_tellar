@@ -1,53 +1,96 @@
 {
   "story_title": "방귀 뀌는 며느리",
   "scenes": [
-    { 
-      "id": 1, 
-      "type": "narration", 
-      "speaker": "narrator", 
-      "text": "옛날 옛날 어느 마을에, 아주 참한 며느리가 시집을 왔어요. 그런데 시간이 갈수록 며느리의 얼굴이 노랗게 변하고 몸이 여위어갔답니다.", 
+    {
+      "id": 1,
+      "type": "narration",
+      "speaker": "narrator",
+      "text": "옛날 옛날 어느 마을에, 아주 참한 며느리가 시집을 왔어요. 그런데 시간이 갈수록 며느리의 얼굴이 노랗게 변하고 몸이 여위어갔답니다.",
       "text_child": "옛날 옛날 어느 마을에, 아주 참한 {이름이가} 시집을 왔어요. 그런데 시간이 갈수록 {이름이의} 얼굴이 노랗게 변하고 몸이 여위어갔답니다.",
       "emotion": "calm",
       "image": "/story_image/farting_daughter_in_law/dau1.png"
-      
     },
-    { 
-      "id": 2, 
-      "type": "dialogue", 
-      "speaker": "father_in_law", 
-      "text": "얘야, 어디가 아픈 거냐? 얼굴색이 좋지 않구나. 무슨 걱정이 있으면 시원하게 말해 보거라.", 
+    {
+      "id": 2,
+      "type": "dialogue",
+      "speaker": "father_in_law",
+      "text": "얘야, 어디가 아픈 거냐? 얼굴색이 좋지 않구나. 무슨 걱정이 있으면 시원하게 말해 보거라.",
       "emotion": "sad",
       "image": "/story_image/farting_daughter_in_law/dau2.png"
     },
-    { 
-      "id": 3, "type": "dialogue", 
-      "speaker": "mother_in_law", 
-      "text": "그래 참으면 더 큰 병을 치를 수 있으니, 참지 말고 얘기해 보렴 아가야.", 
-      "emotion": "sad" ,
+    {
+      "id": 3,
+      "type": "dialogue",
+      "speaker": "mother_in_law",
+      "text": "그래 참으면 더 큰 병을 치를 수 있으니, 참지 말고 얘기해 보렴 아가야.",
+      "emotion": "sad",
       "image": "/story_image/farting_daughter_in_law/dau3.png"
     },
-    { 
-      "id": 4, "type": "dialogue", 
-      "speaker": "daughter_in_law", 
-      "text": "아버님, 사실 제가 방귀를 너무 참아서 그래요. 시원하게 한 번만 뀌게 허락해 주세요.", 
+    {
+      "id": 4,
+      "type": "dialogue",
+      "speaker": "daughter_in_law",
+      "text": "아버님, 사실 제가 방귀를 너무 참아서 그래요. 시원하게 한 번만 뀌게 허락해 주세요.",
       "emotion": "sad",
-      "image": "/story_image/farting_daughter_in_law/dau4.png" 
+      "image": "/story_image/farting_daughter_in_law/dau4.png"
     },
-    { 
-      "id": 5, "type": "narration", 
-      "speaker": "narrator", 
-      "text": "시부모님의 허락이 떨어지자마자 며느리가 방귀를 뀌자, 집안 기둥이 흔들리고 시아버지는 마당 끝 빨랫줄까지 날아가 걸리고 말았지요.", 
-      "text_child": "시부모님의 허락이 떨어지자마자 {이름이가} 방귀를 뀌자, 집안 기둥이 흔들리고 시아버지는 마당 끝 빨랫줄까지 날아가 걸리고 말았지요.", 
+    {
+      "id": 5,
+      "type": "narration",
+      "speaker": "narrator",
+      "text": "시부모님의 허락이 떨어지자마자 며느리가 방귀를 뀌자, 집안 기둥이 흔들리고 시아버지는 마당 끝 빨랫줄까지 날아가 걸리고 말았지요.",
+      "text_child": "시부모님의 허락이 떨어지자마자 {이름이가} 방귀를 뀌자, 집안 기둥이 흔들리고 시아버지는 마당 끝 빨랫줄까지 날아가 걸리고 말았지요.",
       "emotion": "shocked",
       "image": "/story_image/farting_daughter_in_law/dau5.png"
     },
-    { 
-      "id": 6, "type": "narration", 
-      "speaker": "narrator", 
-      "text": "가족들은 처음엔 깜짝 놀랐지만, 며느리의 강력한 방귀 바람 덕분에 높은 나무 위의 열매를 한꺼번에 딸 수 있게 되어 모두가 웃으며 행복하게 살았답니다.", 
-      "text_child": "가족들은 처음엔 깜짝 놀랐지만, {이름이의} 강력한 방귀 바람 덕분에 높은 나무 위의 열매를 한꺼번에 딸 수 있게 되어 모두가 웃으며 행복하게 살았답니다.", 
+    {
+      "id": 6,
+      "type": "narration",
+      "speaker": "narrator",
+      "text": "가족들은 처음엔 깜짝 놀랐지만, 며느리의 강력한 방귀 바람 덕분에 높은 나무 위의 열매를 한꺼번에 딸 수 있게 되어 모두가 웃으며 행복하게 살았답니다.",
+      "text_child": "가족들은 처음엔 깜짝 놀랐지만, {이름이의} 강력한 방귀 바람 덕분에 높은 나무 위의 열매를 한꺼번에 딸 수 있게 되어 모두가 웃으며 행복하게 살았답니다.",
       "emotion": "happy",
-      "image": "/story_image/farting_daughter_in_law/dau6.png" 
+      "image": "/story_image/farting_daughter_in_law/dau6.png"
+    },
+    {
+      "id": 7,
+      "type": "dialogue",
+      "speaker": "daughter_in_law",
+      "text": "아버님, 어머님! 제 방귀처럼 눈에 안 보이는 가스가 얼마나 무서운지, 전국에서 수백건이 넘는 사고가 났다는 이 숫자를 보셔요!",
+      "apiUrl": "https://safemap.go.kr/openapi2/IF_0064?returnType=JSON&pageNo=1&numOfRows=999999&serviceKey=",
+      "emotion": "shocked"
+    },
+    {
+      "id": 8,
+      "type": "dialogue",
+      "speaker": "daughter_in_law",
+      "text": "그래서 요리하기 전에 꼭 창문을 열어서 바람이 통하게 하고, 불을 켤 때는 파란 불꽃이 예쁘게 켜졌는지 확인해야 해요.",
+      "emotion": "calm",
+      "image": "/story_image/farting_daughter_in_law/dau7.jpeg"
+    },
+    {
+      "id": 9,
+      "type": "dialogue",
+      "speaker": "daughter_in_law",
+      "text": "만약 요리 중 '치익-' 하고 가스 새는 소리가 나거나 이상한 냄새가 나면, 절대 불을 켜지 말고 어른들에게 바로 일러주세요!",
+      "emotion": "shocked",
+      "image": "/story_image/farting_daughter_in_law/dau8.jpeg"
+    },
+    {
+      "id": 10,
+      "type": "dialogue",
+      "speaker": "daughter_in_law",
+      "text": "음식을 다 만든 뒤에는 보글보글 끓던 콕(밸브)을 잠그는 것도 제 방귀를 참는 것만큼이나 아주 중요하답니다.",
+      "emotion": "calm",
+      "image": "/story_image/farting_daughter_in_law/dau9.jpeg"
+    },
+    {
+      "id": 11,
+      "type": "dialogue",
+      "speaker": "daughter_in_law",
+      "text": "우리 보물 같은 아이들과 부모님 모두 매일 가스 밸브를 점검하면서, 안전하게 살아가요!",
+      "emotion": "happy",
+      "image": "/story_image/farting_daughter_in_law/dau10.jpeg"
     }
   ]
 }

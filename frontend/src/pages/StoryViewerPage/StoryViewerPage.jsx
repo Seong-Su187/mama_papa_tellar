@@ -198,7 +198,7 @@ function StoryViewerPage() {
 
         const response = await fetch(streamUrl, {
           headers: {
-            "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY
+            "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY()
           }
         });
 
@@ -317,6 +317,7 @@ function StoryViewerPage() {
               page={{
                 image: getSceneImage(currentScene),
                 text: currentScene.text,
+                apiUrl: currentScene.apiUrl,
               }}
             />
           )}
