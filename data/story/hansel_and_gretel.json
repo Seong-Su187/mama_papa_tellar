@@ -1,0 +1,85 @@
+{
+    "story_title": "헨젤과 그레텔",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛적, 나무가 빽빽한 깊은 숲속 마을에 가난한 나무꾼 가족이 살고 있었단다. 그곳에는 헨젤과 그레텔이라는 우애 깊고 착한 두 남매가 있었어요.",
+        "emotion": "calm",
+        "image": "/story_image/hansel_and_gretel/han1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "어느 흉년이 든 해, 먹을 것이 뚝 떨어지자 나무꾼의 새 아내는 남편을 졸라 두 아이를 깊은 숲속에 버리기로 했어요.",
+        "emotion": "sad",
+        "image": "/story_image/hansel_and_gretel/han2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "stepmother",
+        "text": "얘들아, 이 숲에서 잠시만 기다리렴. 아빠와 나무를 해올 테니 얌전히 있어야 한다.",
+        "emotion": "sneaky",
+        "image": "/story_image/hansel_and_gretel/han3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "dialogue",
+        "speaker": "hansel",
+        "text": "그레텔, 울지 마. 내가 미리 길바닥에 하얀 조약돌을 떨어뜨려 놓았으니 달빛이 비치면 집으로 돌아갈 수 있어.",
+        "emotion": "confident",
+        "image": "/story_image/hansel_and_gretel/han4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "하지만 두 번째로 버려진 날, 헨젤이 조약돌 대신 떨어뜨린 빵 부스러기를 새들이 모두 먹어버려 길을 잃고 말았어요.",
+        "emotion": "tense",
+        "image": "/story_image/hansel_and_gretel/han5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "gretel",
+        "text": "오빠, 저기 좀 봐! 지붕은 초콜릿이고 창문은 맑은 설탕으로 된 과자 집이야!",
+        "emotion": "surprised",
+        "image": "/story_image/hansel_and_gretel/han6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "dialogue",
+        "speaker": "witch",
+        "text": "흐흐흐, 길을 잃은 가여운 아이들이구나. 들어와서 푹 쉬렴. 아주 맛있는 걸 잔뜩 주마.",
+        "emotion": "sneaky",
+        "image": "/story_image/hansel_and_gretel/han7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "하지만 마녀는 둘을 속이고 오빠인 헨젤을 감옥에 가두는 나쁜짓을 저질렀어요.",
+        "emotion": "text",
+        "image": "/story_image/hansel_and_gretel/han8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "dialogue",
+        "speaker": "gretel",
+        "text": "마녀가 화덕을 들여다보고 있어! 지금이야! 마녀를 쑥 밀어버리고 갇혀있는 오빠를 구해내자!",
+        "emotion": "determined",
+        "image": "/story_image/hansel_and_gretel/han9.jpeg"
+      },
+      {
+        "id": 10,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "용감하고 지혜로운 남매는 마녀를 물리치고 과자 집의 보물을 챙겨 그리운 아빠의 품으로 무사히 돌아갔답니다.",
+        "emotion": "happy",
+        "image": "/story_image/hansel_and_gretel/han10.jpeg"
+      }
+    ]
+  }

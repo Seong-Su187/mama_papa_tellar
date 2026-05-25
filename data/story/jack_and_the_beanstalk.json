@@ -1,0 +1,77 @@
+{
+    "story_title": "잭과 콩나무",
+    "scenes": [
+      {
+        "id": 1,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "옛날 옛날 아주 먼 옛날, 작고 낡은 오두막에 가난하지만 호기심 많은 잭과 어머니가 살고 있었단다.",
+        "emotion": "calm",
+        "image": "/story_image/jack_and_the_beanstalk/jack1.jpeg"
+      },
+      {
+        "id": 2,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "집에 먹을 것이 뚝 떨어지자 어머니는 잭에게 마지막 남은 젖소를 시장에 가서 돈을 받고 팔고 오라고 하셨어요.",
+        "emotion": "sad",
+        "image": "/story_image/jack_and_the_beanstalk/jack2.jpeg"
+      },
+      {
+        "id": 3,
+        "type": "dialogue",
+        "speaker": "old_man",
+        "text": "꼬마야, 그 소를 이 마법의 요술 콩 다섯 알과 바꾸지 않으련? 하루 밤이면 하늘 끝까지 자라는 엄청나게 신기한 콩이란다.",
+        "emotion": "sneaky",
+        "image": "/story_image/jack_and_the_beanstalk/jack3.jpeg"
+      },
+      {
+        "id": 4,
+        "type": "dialogue",
+        "speaker": "mother",
+        "text": "아이고, 이 어리석은 녀석아! 멀쩡한 소를 이딴 쭈글쭈글한 콩이랑 바꾸다니! 당장 창밖으로 내다 버려라!",
+        "emotion": "angry",
+        "image": "/story_image/jack_and_the_beanstalk/jack4.jpeg"
+      },
+      {
+        "id": 5,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "다음 날 아침, 창밖을 본 잭은 깜짝 놀랐어요. 마당에 버려진 콩이 싹을 틔워 두꺼운 줄기가 구름 위까지 닿을 만큼 거대하게 자라 있었거든요.",
+        "emotion": "surprised",
+        "image": "/story_image/jack_and_the_beanstalk/jack5.jpeg"
+      },
+      {
+        "id": 6,
+        "type": "dialogue",
+        "speaker": "jack",
+        "text": "우와! 정말 할아버지 말대로 요술 콩이었어! 이 거대한 콩나무 꼭대기에는 뭐가 있을까? 내가 한 번 끝까지 올라가 봐야지.",
+        "emotion": "excited",
+        "image": "/story_image/jack_and_the_beanstalk/jack6.jpeg"
+      },
+      {
+        "id": 7,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "구름 위 거인의 성에 도착한 잭은 숨어있다가, 거인이 황금 알을 낳는 거위와 스스로 노래하는 요술 하프를 꺼내는 것을 보았어요.",
+        "emotion": "tense",
+        "image": "/story_image/jack_and_the_beanstalk/jack7.jpeg"
+      },
+      {
+        "id": 8,
+        "type": "dialogue",
+        "speaker": "giant",
+        "text": "킁킁! 어디서 고약한 사람 고기 냄새가 나는데! 요 앙큼한 도둑 꼬마 녀석, 내 하프를 훔쳐서 어딜 도망가느냐!",
+        "emotion": "scary",
+        "image": "/story_image/jack_and_the_beanstalk/jack8.jpeg"
+      },
+      {
+        "id": 9,
+        "type": "narration",
+        "speaker": "narrator",
+        "text": "잭이 도끼로 나무를 재빨리 베어버리자 거인은 쿵 하고 땅에 떨어졌고, 황금 거위를 얻은 잭과 어머니는 큰 부자가 되었답니다.",
+        "emotion": "happy",
+        "image": "/story_image/jack_and_the_beanstalk/jack9.jpeg"
+      }
+    ]
+  }

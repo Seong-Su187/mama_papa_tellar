@@ -57,7 +57,7 @@ function WhoIsItViewPage() {
     const fetchQuizPair = async () => {
         try {
             const res = await fetch(`${API_BASE_URL}/api/quizzes/responses/pair`, {
-                headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+                headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
             });
             if (res.ok) {
                 const data = await res.json();
@@ -85,7 +85,7 @@ function WhoIsItViewPage() {
             }
 
             const res = await fetch(`${API_BASE_URL}/api/quizzes`, {
-                headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+                headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
             });
             const data = await res.json();
             const allQuizzes = data.quizzes;
@@ -161,7 +161,7 @@ function WhoIsItViewPage() {
             const voiceId = localStorage.getItem(currentVoiceKey);
             const response = await fetch(`${API_BASE_URL}/api/quizzes/play?quiz_id=${quizData.id}&voice_id=${voiceId}`, {
                 method: "GET",
-                headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+                headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
             });
 
             if (!isMounted.current) return;
@@ -179,7 +179,7 @@ function WhoIsItViewPage() {
                 if (!resultAudioUrls.correct && fixedMessages.correct) {
                     const correctText = formatMessage(fixedMessages.correct);
                     fetch(`${API_BASE_URL}/api/quizzes/play_text?text=${encodeURIComponent(correctText)}&voice_id=${voiceId}&emotion=happy`, {
-                        headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+                        headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
                     })
                         .then(res => res.blob())
                         .then(blob => {
@@ -191,7 +191,7 @@ function WhoIsItViewPage() {
                 if (!resultAudioUrls.incorrect && fixedMessages.incorrect) {
                     const incorrectText = formatMessage(fixedMessages.incorrect);
                     fetch(`${API_BASE_URL}/api/quizzes/play_text?text=${encodeURIComponent(incorrectText)}&voice_id=${voiceId}&emotion=calm`, {
-                        headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY }
+                        headers: { "X-Handshake-Key": APP_ACCESS_HANDSHAKE_KEY() }
                     })
                         .then(res => res.blob())
                         .then(blob => {
